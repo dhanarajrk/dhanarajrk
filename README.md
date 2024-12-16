@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dhanarajrk
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning tech related stuffs like coding, web development, machine learning and some others... 
-- 💞️ I’m looking to collaborate mainly on Web and App Development
+- 🌱 I’m currently learning tech related stuffs like coding, Full Stack Web development, machine learning and some others... 
+- 💞️ I’m looking to collaborate mainly on Full Stack Web and App Development
 - 📫 You can reach me on my Instagram [here](https://www.instagram.com/dhanaraj_rk_/).
 - ⚡ Fun fact: Immortal peak in Valorant
 
